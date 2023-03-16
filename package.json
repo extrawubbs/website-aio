@@ -6,7 +6,7 @@
 	"license": "GPL-3.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/holy-unblocker/website-aio.git"
+		"url": "https://extrawubbs.github.io/website-aio/"
 	},
 	"private": true,
 	"type": "module",
